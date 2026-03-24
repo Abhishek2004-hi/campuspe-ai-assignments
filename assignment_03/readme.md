@@ -1,4 +1,4 @@
-### AI API Integration Assignment
+### API Integration Assignment
 
 ## What's this about?
 So basically, this project connects to 5 different AI services — Groq, Ollama, Hugging Face, Google Gemini, and Cohere — using Python. Each one has its own script. You type something in, the AI responds. That's pretty much it.
